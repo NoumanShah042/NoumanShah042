@@ -19,7 +19,7 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 ---
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=NoumanShah042&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
+  
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanShah042&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="335px"/>
 </div>
 
