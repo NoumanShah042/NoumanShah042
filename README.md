@@ -28,8 +28,9 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 
 <h3>Links</h3>
  
-<span><a target="_blank" href="https://www.linkedin.com/in/syednouman042/"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png" height=64></a></span>
-<span><a target="_blank" href="https://www.instagram.com/noumanshah042/"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png" height=64></a></span> 
+<span><a target="_blank" href="https://www.linkedin.com/in/syednouman042/"><img src="assets/linkedin.png" height=64></a></span>
+<span><a target="_blank" href="https://www.instagram.com/noumanshah042/"><img src="assets/instagram.png" height=64></a></span>
+<span><a target="_blank" href="https://www.facebook.com/nouman.shah.378199"><img src="assets/facebook.png" height=64></a></span> 
 
 
 ---
