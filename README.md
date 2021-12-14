@@ -25,6 +25,15 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 
 ---
 
+
+<h3>Links</h3>
+ 
+<span><a target="_blank" href="https://www.linkedin.com/in/syednouman042/"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png" height=64></a></span>
+<span><a target="_blank" href="https://www.instagram.com/noumanshah042/"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png" height=64></a></span> 
+
+
+---
+
 <h3>Skills</h3>
 
 <span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
@@ -36,11 +45,10 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 
 ---
 
-<h3>Hobbies</h3>
+<h3>Hobbies</h3> 
 <ul>
-  <li>Learning New Skills 🤓</li>
-  <li>Book Reading </li>
-  <li>Watching Anime✨</li>
+  <li>Learning New Skills 🤓</li> 
+  <li>Cricket ✨</li>
 </ul>
 
 ---
