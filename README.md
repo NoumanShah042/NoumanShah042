@@ -8,7 +8,7 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NoumanShah042=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![NoumanShah042's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoumanShah042)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
