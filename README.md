@@ -38,7 +38,7 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 <h3>Skills</h3>
 
 <span><img src="assets/python.png" height="64px"></span>
-<span><img src="assets/java.png" height="64px"></span>
+<span><img src="assets/java_.png" height="64px"></span>
 <span><img src="assets/cpp.png" height="64px"></span>
 <span><img src="assets/sql.png" height="64px"></span>
 <span><img src="assets/js.png" height="64px"></span>
