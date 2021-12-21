@@ -43,7 +43,7 @@ I am final year student at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I wor
 <span><img src="assets/sql.png" height="64px"></span>
 <span><img src="assets/js.png" height="64px"></span>
 <span><img src="assets/html_.png" height="64px"></span>
-<span><img src="assets/css_.png" height="64px"></span>
+<span><img src="assets/css_.png" height="70px"></span>
 <span><img src="assets/bootstrap.png" height="64px"></span>
 ---
 
